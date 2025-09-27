@@ -1,0 +1,22 @@
+View the latest Bootstrap DocumentationLinks to an external site.. 
+Then, create a new repository on GitHub named activity_bootstrap. 
+Within it, create a new file named index.html. Follow the Quick 
+start guide to include Bootstrap’s CSS and JS. This should include 
+all skeleton tags and the viewport.
+
+Using the documentation provided, add the following elements to index.html:
+
+A main with the container class
+A ul with the nav class nested inside the nav tag
+Two section tags with the row class inside the main
+An article with the col class inside the first section
+Three article tags with the col class inside the second section
+Make the following modifications to your page:
+
+In the first article, add a heading 1 with the assignment name, a paragraph with your name, and a second paragraph with the date.
+In the second article, include a heading 2 with the text “Viewport” and a paragraph with the textbook definition of a viewport.
+In the third article, include a heading 2 with the text “Flexbox” and a paragraph with the textbook definition of a flexbox.
+In the fourth article, include a heading 2 with the text “Grid” and a paragraph with the textbook definition of a grid layout.
+Push all changes to your repository with appropriate comments.
+
+Your submission must contain the link to your GitHub repository as a text entry. 
